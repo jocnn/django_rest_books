@@ -126,10 +126,10 @@ Abstract:Api de libros usando Django RestFramework
 
 ### Screenshots
 
-BookApi:  localhost:8000/     |   https://abcde-library.herokuapp.com/
+BookApi:  localhost:8000/
 ===
 ![Image text](https://github.com/jocnn/django_rest_books/blob/main/screenshots/book_api_restframework_0.png)
 
-BookApi:  localhost:8000/api  |   https://abcde-library.herokuapp.com/api/
+BookApi:  localhost:8000/api
 ===
 ![Image text](https://github.com/jocnn/django_rest_books/blob/main/screenshots/book_api_restframework_1.png)
