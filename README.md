@@ -29,6 +29,11 @@ Abstract:Api de libros usando Django RestFramework
   ```
   (.venv) > python manage.py test
   ```
+- for deployment
+  ```
+  https://abcde-library.herokuapp.com/
+  https://abcde-library.herokuapp.com/api/
+  ```
 
 ## Directory Hierarchy
 ```
@@ -121,10 +126,10 @@ Abstract:Api de libros usando Django RestFramework
 
 ### Screenshots
 
-BookApi:  localhost:8000/
+BookApi:  localhost:8000/     |   https://abcde-library.herokuapp.com/
 ===
 ![Image text](https://github.com/jocnn/django_rest_books/blob/main/screenshots/book_api_restframework_0.png)
 
-BookApi:  localhost:8000/api
+BookApi:  localhost:8000/api  |   https://abcde-library.herokuapp.com/api/
 ===
 ![Image text](https://github.com/jocnn/django_rest_books/blob/main/screenshots/book_api_restframework_1.png)
